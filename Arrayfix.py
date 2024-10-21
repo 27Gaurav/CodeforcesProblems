@@ -1,4 +1,5 @@
 n= int(input())
+m= 0 
 for t in range(n) :
     m= int(input())
     l= list(map(int,input().split()))
